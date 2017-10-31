@@ -1,0 +1,17 @@
+.list {
+	list-style-type: none;
+}
+
+.list li {
+	display: inline-block;
+}
+
+html body {
+	background-color: lightskyblue;
+}
+
+.header {
+	text-align: center;
+	width: 500px;
+	margin: 20px auto;
+}
